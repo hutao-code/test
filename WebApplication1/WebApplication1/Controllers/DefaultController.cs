@@ -11,7 +11,9 @@ namespace WebApplication1.Controllers
         // GET: Default
         public ActionResult Index()
         {
-            //hutao
+            Console.log("hutao1");
+            Console.log("hutao2");
+            Console.log("hutao3");
             return View();
         }
     }
