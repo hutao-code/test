@@ -15,7 +15,7 @@ namespace WebApplication1.Controllers
             Console.log("hutao2");
             Console.log("hutao3");
             Console.log("hutao4");
-            Console.log("hutao5");
+            Console.log("hutao6");
             return View();
         }
     }
